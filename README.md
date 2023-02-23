@@ -1,3 +1,5 @@
+[![Quarto Publish](https://github.com/vanHeemstraSystems/learning-computing-themes/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/learning-computing-themes/actions/workflows/publish.yml)
+
 learning-computing-themes
 # Learning Computing - Themes
 
