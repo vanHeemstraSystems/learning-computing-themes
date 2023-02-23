@@ -1,5 +1,5 @@
-# learning-computing-themes
-Learning Computing - Themes
+learning-computing-themes
+# Learning Computing - Themes
 
 Part of "Learning - Computing" at https://github.com/vanHeemstraSystems/learning-computing
 
