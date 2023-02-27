@@ -5,7 +5,7 @@ learning-computing-themes
 
 Part of "Learning - Computing" at https://github.com/vanHeemstraSystems/learning-computing
 
-Can be read as "Learning Conmputing - Themes" at https://app.gitbook.com/o/mhLLz4wi0Rs2JPkBGvCd/s/rj8myMko4HNX3RA2WxvW/
+Can be read as "Learning Computing - Themes" at https://app.gitbook.com/o/mhLLz4wi0Rs2JPkBGvCd/s/rj8myMko4HNX3RA2WxvW/
 
 Can be browsed as "Learning Computing - Themes" at https://vanheemstrasystems.github.io/learning-computing-themes/
 
